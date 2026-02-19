@@ -9,3 +9,4 @@ The sign rule is:
 
 **Example:**
 (-3) × 4 = -12
+(-4) × 4 = -16
